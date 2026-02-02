@@ -1,8 +1,8 @@
 # Student-Management-System
 Student Management System using Java, Spring Boot, React, MySQL
 
-Student Management System is a full-stack web application designed to simplify the management of student information in educational institutions. The system allows administrators to register students, track attendance, and manage academic records efficiently.
+The Student Management System is a web application used to manage student details in an easy way. It helps to store and view information like student registration details, attendance, and academic records.
 
-The backend is built using Java and Spring Boot, providing secure and scalable RESTful APIs for handling business logic and database operations. MySQL is used for persistent data storage with optimized queries for fast retrieval. The frontend is developed using React, offering a responsive and interactive user interface that communicates seamlessly with the backend.
+The backend of the project is built using Java and Spring Boot, which handles all the data and logic of the application. MySQL is used to store student information in the database. The frontend is created using React, which provides a simple and user-friendly interface. The frontend and backend communicate with each other using REST APIs.
 
-This project demonstrates strong understanding of full-stack development, REST API design, database integration, and frontend-backend communication.
+This project shows basic knowledge of full-stack development, database handling, and frontend-backend communication.
